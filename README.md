@@ -12,4 +12,9 @@ A fast PC with 8 GB is recommended.
 ```
 julia
 ]add https://github.com/ufechner7/KiteViewer.jl
+
+<del>
+using KiteViewer
+init()
+show3d()
 ```
