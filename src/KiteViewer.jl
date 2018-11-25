@@ -23,7 +23,7 @@ function rects()
 end
 
 function spheres()
-    mesh!(Sphere(Point3f0(0), 1f0), color = :blue)
+    mesh!(Sphere(Point3f0(0), 0.5f0), color = :blue)
     nothing
 end
 
