@@ -1,0 +1,12 @@
+name = "KiteViewer"
+uuid = "67e8da46-f086-11e8-14c1-4f0020423b7e"
+authors = ["Uwe Fechner <fechner@aenarete.eu>"]
+version = "0.1.0"
+
+[deps]
+GeometryTypes = "4d00f742-c7ba-57c2-abde-4428a4b178cb"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+
+[compat]
+Makie = "^0.9"
+julia = "^1"
