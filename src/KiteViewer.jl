@@ -69,5 +69,6 @@ function main()
     cam.eyeposition[] = [-15,-15,5]
     update_cam!(scene)
     return scene
+end
 
 end # module
