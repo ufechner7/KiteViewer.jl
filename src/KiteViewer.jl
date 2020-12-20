@@ -2,7 +2,8 @@ __precompile__(false)
 
 module KiteViewer
 
-using GeometryBasics, Makie, GLMakie
+using Makie, GLMakie
+import GeometryBasics.Cylinder
 
 export main
 
