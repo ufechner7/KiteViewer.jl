@@ -16,5 +16,5 @@ julia
 
 <backspace>
 using KiteViewer
-show()
+main()
 ```

@@ -1,10 +1,12 @@
 name = "KiteViewer"
 uuid = "67e8da46-f086-11e8-14c1-4f0020423b7e"
 authors = ["Uwe Fechner <fechner@aenarete.eu>"]
-version = "0.1.0"
+version = "0.2.0"
 
 [deps]
-GeometryTypes = "4d00f742-c7ba-57c2-abde-4428a4b178cb"
+AbstractPlotting = "537997a7-5e4e-5d89-9595-2241ea00577e"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
 Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 
 [compat]
