@@ -4,6 +4,7 @@ module KiteViewer
 
 using Makie, GLMakie
 import GeometryBasics.Cylinder
+import GeometryBasics.HyperSphere
 
 export main
 
