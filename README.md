@@ -3,7 +3,7 @@
 
 ## Requirements
 
-Julia 1.0 or higher must be installed. You can download it at https://www.julialang.org/
+Julia 1.5 or higher must be installed. You can download it at https://www.julialang.org/
 
 A fast PC with 8 GB is recommended.
 OpenGL must be working.
@@ -14,8 +14,7 @@ OpenGL must be working.
 julia
 ]add https://github.com/ufechner7/KiteViewer.jl
 
-<del>
+<backspace>
 using KiteViewer
-init()
-show3d()
+show()
 ```
